@@ -1,3 +1,3 @@
 require './main'
 
-run App
+run App.new
